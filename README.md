@@ -1,4 +1,4 @@
-# Hi, I'm `<YOUR_NAME>` 👋
+# Hi, I'm `Naphat Jakkraphatcharakul` 👋
 
 ### Data & AI Enthusiast
 
@@ -43,18 +43,6 @@ Currently exploring how AI can improve workflows, accelerate problem-solving, an
 
 ---
 
-## Current Focus
-
-```text
-Data Analysis       ███████████████████░   SQL and structured insights
-AI Tools            ██████████████████░░   Productivity and automation
-Database Systems    █████████████████░░░   PostgreSQL and Supabase
-Python              ███████████░░░░░░░░░   Expanding step by step
-Cybersecurity       █████████░░░░░░░░░░░   Exploring the fundamentals
-```
-
----
-
 ## Featured Projects
 
 ### 📊 Data Analysis Project
@@ -82,12 +70,12 @@ Experiment with AI tools to improve research, development, documentation, and re
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=Serenaurity&show_icons=true&hide_border=true&theme=transparent"
     alt="GitHub statistics"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serenaurity&layout=compact&hide_border=true&theme=transparent"
     alt="Most used languages"
   />
 </p>
@@ -107,9 +95,9 @@ Experiment with AI tools to improve research, development, documentation, and re
 
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)](https://github.com/<YOUR_USERNAME>)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)](https://github.com/Serenaurity)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:<YOUR_EMAIL>)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:serendip.au@gmail.com)
 
 ---
 
