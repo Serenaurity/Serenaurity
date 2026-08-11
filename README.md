@@ -21,27 +21,26 @@ Currently exploring how AI can improve workflows, accelerate problem-solving, an
 
 ## Core Skills
 
-### Data & Databases
+### Data & Analytics
 
 ![Python](https://img.shields.io/badge/Python-Data%20Processing-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-Backend-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### AI & Machine Learning
+### AI & Development Tools
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-AI%20Tools-10A37F?style=for-the-badge\&logo=openai\&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-CLI%20Assistant-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI%20Assistant-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-Coding%20Agent-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Data%20Exploration-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Development & Workflow
-
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Code%20Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+
+### Backend & Workflow
+
+![Supabase](https://img.shields.io/badge/Supabase-Backend%20Platform-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
