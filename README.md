@@ -100,7 +100,7 @@ Experiment with AI tools to improve research, development, documentation, and re
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/serenaurity/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serendip.au@gmail.com)
 
-📧 Email: serendip.au@gmail.com
+📧 Email: Naphat.jak.work@gmail.com
 
 ---
 
